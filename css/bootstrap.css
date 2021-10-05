@@ -3863,7 +3863,7 @@ fieldset[disabled] .btn-primary:hover {
 }
 
 .btn-success {
-    color: #fff;
+    color: #000;
     background-color: #f3976c;
     border-color: #f3976c;
     border-radius: 50px;
