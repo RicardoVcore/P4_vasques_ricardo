@@ -646,6 +646,8 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
+    font-size: 15px;
+    color: #000000;
 }
 
 .container {
